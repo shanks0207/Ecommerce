@@ -1,0 +1,8 @@
+{"name": "fanta", "detail": "soft drinks", "price": "50", "seller": "ram"}
+{"name": "mari biscuit", "detail": "biscuit", "price": "55", "seller": "ram"}
+{"name": "mobile", "detail": "cellphone", "price": "20000", "seller": "ram"}
+{"name": "dell", "detail": "laptop", "price": "150000", "seller": "CG company"}
+{"name": "Django with python", "detail": "tranning", "price": "15000", "seller": "CG company"}
+{"name": "t shirt", "detail": "clothings", "price": "1500", "seller": "Labim mall"}
+{"name": "Jawan movie ticket", "detail": "movie ticket", "price": "500", "seller": "Labim mall"}
+{"name": "wooden frame", "detail": "decoratives", "price": "5000", "seller": "Labim mall"}

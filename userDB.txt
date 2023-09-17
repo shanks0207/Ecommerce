@@ -1,0 +1,6 @@
+{"user_name": "kshitiz", "user_password": "kshitiz123", "user_type": "buyer"}
+{"user_name": "rita", "user_password": "rita123", "user_type": "buyer"}
+{"user_name": "mandy", "user_password": "mandy123", "user_type": "buyer"}
+{"user_name": "CG company", "user_password": "CG123", "user_type": "seller"}
+{"user_name": "klllllllllll", "user_password": "klsddddddddddd", "user_type": "Nicky"}
+{"user_name": "Labim mall", "user_password": "labim123", "user_type": "seller"}
